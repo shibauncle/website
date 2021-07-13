@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-205 368 201 58" enable-background="new -205 368 201 58" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-201.7689" y1="422.9913" x2="-15.2689" y2="376.9912" gradientTransform="matrix(1 0 0 -1 0 796)">
+	<stop  offset="0" style="stop-color:#FF8A00"/>
+	<stop  offset="1" style="stop-color:#F76800"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" stroke="#E9873F" stroke-width="3" d="M-203,380l10-10h177l10,10v34l-10,10h-177l-10-10V380z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-201.7689" y1="422.9913" x2="-15.2689" y2="376.9912" gradientTransform="matrix(1 0 0 -1 0 796)">
+	<stop  offset="0" style="stop-color:#FFA300"/>
+	<stop  offset="1" style="stop-color:#FF8A00"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" stroke="#FCAD74" stroke-width="3" d="M-203,380l10-10h177l10,10v34l-10,10h-177l-10-10V380z"/>
+<rect x="-168.8" y="387.9" fill="none" width="158.6" height="31.8"/>
+<text transform="matrix(1 0 0 1 -168.75 405.0107)" fill="#FFFFFF" font-family="'HelveticaNeueLTPro-Bd'" font-size="24px">BUY $SHU </text>
+</svg>
